@@ -16,7 +16,7 @@ public class Main {
         InstructorManager instructorManager=new InstructorManager();
         instructorManager.addInstructor(instructor);
         StudentManager studentManager=new StudentManager();
-        studentManager.addStudent(student);
+        studentManager.addStudent(student );
 
     }
 }
