@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="mail.jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/mail.jar.zip!/" />
+      <root url="jar://$USER_HOME$/Downloads/activation.jar.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$USER_HOME$/Downloads/activation.jar.zip!/" recursive="false" />
+    <jarDirectory url="jar://$USER_HOME$/Downloads/mail.jar.zip!/" recursive="false" />
+  </library>
+</component>
